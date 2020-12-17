@@ -9,7 +9,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	backround: linear-gradient(to bottom, rgb(132, 175, 44), rgb(44, 176, 55));
+	background: rgb(19, 15, 24);
 }
 .container {
 	width: 800px;
